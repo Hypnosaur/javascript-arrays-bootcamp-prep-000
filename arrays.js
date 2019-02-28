@@ -3,4 +3,8 @@ var chocolateBars = [
   "hundred grand", 
   "kitkat", 
   "skittles"
-  ]
+];
+
+addElementToBeginningOfArray(array, element){
+  
+}
